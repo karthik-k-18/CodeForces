@@ -1,0 +1,3 @@
+C:/Users/karth/CLionProjects/CODE_FORCES/790/cmake-build-debug/CMakeFiles/790.dir
+C:/Users/karth/CLionProjects/CODE_FORCES/790/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karth/CLionProjects/CODE_FORCES/790/cmake-build-debug/CMakeFiles/rebuild_cache.dir
